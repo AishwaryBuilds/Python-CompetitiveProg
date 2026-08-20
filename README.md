@@ -12,3 +12,4 @@ Codeforces problem solutions in Python 3.
 - Greedy Algorithms  
 - Math and Number Theory
 - Implementation
+- Brute Force
